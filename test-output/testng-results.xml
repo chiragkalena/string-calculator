@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-04T16:44:48 IST" name="Default suite" finished-at="2022-09-04T16:44:48 IST" duration-ms="134">
+    <groups>
+    </groups>
+    <test started-at="2022-09-04T16:44:48 IST" name="Default test" finished-at="2022-09-04T16:44:48 IST" duration-ms="134">
+      <class name="stringcal.TestCal">
+        <test-method signature="testNumberIsEmptySpace()[pri:0, instance:stringcal.TestCal@43301423]" started-at="2022-09-04T16:44:48 IST" name="testNumberIsEmptySpace" finished-at="2022-09-04T16:44:48 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNumberIsEmptySpace -->
+        <test-method signature="testNumberWithDifferentDelimiter()[pri:0, instance:stringcal.TestCal@43301423]" started-at="2022-09-04T16:44:48 IST" name="testNumberWithDifferentDelimiter" finished-at="2022-09-04T16:44:48 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNumberWithDifferentDelimiter -->
+        <test-method signature="testNumberWithDifferentDelimiterNewLine()[pri:0, instance:stringcal.TestCal@43301423]" started-at="2022-09-04T16:44:48 IST" name="testNumberWithDifferentDelimiterNewLine" finished-at="2022-09-04T16:44:48 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNumberWithDifferentDelimiterNewLine -->
+        <test-method signature="testNumberWithEvenIndicesSum()[pri:0, instance:stringcal.TestCal@43301423]" started-at="2022-09-04T16:44:48 IST" name="testNumberWithEvenIndicesSum" finished-at="2022-09-04T16:44:48 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNumberWithEvenIndicesSum -->
+        <test-method signature="testNumberWithMulitpleLengthDelimiter()[pri:0, instance:stringcal.TestCal@43301423]" started-at="2022-09-04T16:44:48 IST" name="testNumberWithMulitpleLengthDelimiter" finished-at="2022-09-04T16:44:48 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNumberWithMulitpleLengthDelimiter -->
+        <test-method signature="testNumberWithOddIndicesSum()[pri:0, instance:stringcal.TestCal@43301423]" started-at="2022-09-04T16:44:48 IST" name="testNumberWithOddIndicesSum" finished-at="2022-09-04T16:44:48 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNumberWithOddIndicesSum -->
+        <test-method signature="testStringHasAlphabets()[pri:0, instance:stringcal.TestCal@43301423]" started-at="2022-09-04T16:44:48 IST" name="testStringHasAlphabets" finished-at="2022-09-04T16:44:48 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStringHasAlphabets -->
+        <test-method signature="testStringHasOneNumber()[pri:0, instance:stringcal.TestCal@43301423]" started-at="2022-09-04T16:44:48 IST" name="testStringHasOneNumber" finished-at="2022-09-04T16:44:48 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStringHasOneNumber -->
+        <test-method signature="testStringHasTwoNumber()[pri:0, instance:stringcal.TestCal@43301423]" started-at="2022-09-04T16:44:48 IST" name="testStringHasTwoNumber" finished-at="2022-09-04T16:44:48 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStringHasTwoNumber -->
+        <test-method signature="testStringHasUnknownNumbers()[pri:0, instance:stringcal.TestCal@43301423]" started-at="2022-09-04T16:44:48 IST" name="testStringHasUnknownNumbers" finished-at="2022-09-04T16:44:48 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStringHasUnknownNumbers -->
+        <test-method signature="testStringNumberIsBiggerThanThousand()[pri:0, instance:stringcal.TestCal@43301423]" started-at="2022-09-04T16:44:48 IST" name="testStringNumberIsBiggerThanThousand" finished-at="2022-09-04T16:44:48 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStringNumberIsBiggerThanThousand -->
+      </class> <!-- stringcal.TestCal -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
